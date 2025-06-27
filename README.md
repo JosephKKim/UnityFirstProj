@@ -11,7 +11,7 @@ Starting with catlikecoding.com tutorial
 ----
 Official tutorials TODO
 1. [https://learn.unity.com/project/unity-editeo-sijaghaebogi]
-2. [https://learn.unity.com/course/beginner-gameplay-scripting?version=2019.3]
+2. [https://learn.unity.com/course/beginner-gameplay-scripting?version=2019.3](https://learn.unity.com/project/beginner-scripting)]
 
 
 
